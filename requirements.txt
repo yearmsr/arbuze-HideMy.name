@@ -1,0 +1,2 @@
+﻿fake-useragent
+requests
